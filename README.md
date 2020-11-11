@@ -1,2 +1,9 @@
 # cl-composes
-Docker Composes yamls
+Docker compose from CringerLabs
+
+## docker-elk
+Default Stack
+
+## docker-logstash-sflow
+Dockerfile who creates a container prepared for sflow packages
+
