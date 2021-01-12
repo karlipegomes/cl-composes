@@ -5,5 +5,5 @@ Docker compose from CringerLabs
 Default Stack
 
 ## docker-logstash-sflow
-Dockerfile who creates a container prepared for sflow packages
+Dockerfile who creates a container prepared for sflow packet
 
